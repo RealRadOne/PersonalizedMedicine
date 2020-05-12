@@ -1,4 +1,4 @@
 # PersonalizedMedicine
-Classifying cancerous genetic mutations
-The dataset is imbalanced and involves multiple classes needed to be classified in order to make predictions
-## The Kaggle Competition can be found at:https://www.kaggle.com/c/msk-redefining-cancer-treatment
+##Cancer is one of the world's deadliest diseases and it is beacuse of generic medicines like Gleevec to treat all types of cancer.
+###A cancer tumour can have thousands of genetic mutations once sequenced. 
+###The project aims at classifying cancerous genetic mutations to speed up the process and help humanity advance to personalized medicine to find a quicker and better cure to cancer.
